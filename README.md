@@ -6,7 +6,7 @@
  * Used Excel to classify data and draw business conclusions
 
 ## Task 1 
-Having your data unification algorithm, Daikibo's tech team has converted all telemetry data collected from the 4 factories of the company:
+ Having your data unification algorithm, Daikibo's tech team has converted all telemetry data collected from the 4 factories of the company:
 
 •	Daikibo Factory Meiyo (Tokyo, Japan)
 •	Daikibo Factory Seiko (Osaka, Japan)
