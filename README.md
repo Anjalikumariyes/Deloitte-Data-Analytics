@@ -17,3 +17,6 @@ Each location has 9 types of machines, sending a message every 10 min. Daikibo h
 The reason this client wanted to collect telemetry was to answer 2 questions:
 *	In which location did machines break the most?
 *	What are the machines that broke most often in that location?
+
+# Task 2
+The second task is to analyse the telemetry data collected by Daikibo (and unified with your algorithm) in a software called Tableau.
