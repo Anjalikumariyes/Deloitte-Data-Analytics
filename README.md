@@ -22,4 +22,4 @@ The reason this client wanted to collect telemetry was to answer 2 questions:
 * The second task is to analyse the telemetry data collected by Daikibo (and unified with your algorithm) in a software called Tableau.
 
 ## Certificate
-completion_certificate<a href=https://github.com/Anjalikumariyes/Deloitte-Data-Analytics/blob/main/Certificate%20of%20Completion.pdf/completion_certificate.pdf>link</a>
+completion_certificate<a href=https://github.com/Anjalikumariyes/Deloitte-Data-Analytics/blob/main/Certificate%20of%20Completion.pdf/completion_certificate.pdf> (link)</a>
