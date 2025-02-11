@@ -18,7 +18,7 @@ The reason this client wanted to collect telemetry was to answer 2 questions:
 *	In which location did machines break the most?
 *	What are the machines that broke most often in that location?
 
-## Task 2
+## Task 2 <a href = "https://github.com/Anjalikumariyes/Deloitte-Data-Analytics/blob/main/Task%202%20Forensic%20technology/Task%202%20Equality%20Table.xlsx"></a>
 * The second task is to analyse the telemetry data collected by Daikibo (and unified with your algorithm) in a software called Tableau.
 
 ## Certificate
