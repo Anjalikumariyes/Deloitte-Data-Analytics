@@ -5,8 +5,7 @@
  * Created a data dashboard using Tableau 
  * Used Excel to classify data and draw business conclusions
 
-## Task 1
-<a href = "https://github.com/Anjalikumariyes/Deloitte-Data-Analytics/blob/main/Task%201%20Data%20analysis/task1.pdf" >Link <a/>
+## Task 1 <a href = "https://github.com/Anjalikumariyes/Deloitte-Data-Analytics/blob/main/Task%201%20Data%20analysis/task1.pdf" >Link <a/>
 Having your data unification algorithm, Daikibo's tech team has converted all telemetry data collected from the 4 factories of the company:
 *	Daikibo Factory Meiyo (Tokyo, Japan)
 *	Daikibo Factory Seiko (Osaka, Japan)
